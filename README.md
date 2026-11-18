@@ -13,3 +13,4 @@ In the repository settings, enable GitHub Pages and deploy from the `main` branc
 ## Content notes
 
 The portfolio uses the factual details available in the provided resume excerpt: name, contact links, named organizations and schools, certificate links, and the mainframe technologies specified for this portfolio. The resume’s text layer was not available in the supplied PDF data, so exact role titles, employment dates, detailed project descriptions, education credentials, and certificate names were intentionally not inferred. The resume button links to the FlowCV resume page.
+
